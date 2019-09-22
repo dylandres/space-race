@@ -8,6 +8,7 @@ import time
 #You Kwhan Kim
 #Chris Magallona
 
+#In honor of our fallen heroes at the Area 51 Raid
 pygame.init()
 winx, winy = 1000, 683
 window = pygame.display.set_mode((winx, winy))
